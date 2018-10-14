@@ -8,4 +8,4 @@ firsgt local commitg
 this line written in git hub.
 
 
-anotgher commit bgy local
+anotgher commit bgy local 1 by command line
