@@ -11,3 +11,5 @@ this line written in git hub.
 anotgher commit bgy local 1 by command line
 
 anotgher commit bgy local 2 by command line
+
+commit by github 3rd
