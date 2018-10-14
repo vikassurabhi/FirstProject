@@ -15,3 +15,9 @@ anotgher commit bgy local 2 by command line
 commit by github 3rd
 
 4th time by github and retrive by not command iline
+
+succes by command line and not working ui 
+
+remove 2 branch
+
+add again textg
