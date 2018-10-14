@@ -21,3 +21,4 @@ succes by command line and not working ui
 remove 2 branch
 
 add again textg
+last today
