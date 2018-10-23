@@ -22,6 +22,9 @@ remove 2 branch
 
 add again textg
 last today
+<<<<<<< HEAD
 
 
 time chang
+=======
+>>>>>>> f0f5d97504d474b76598c9bb75c65d7fc3e5cc91
