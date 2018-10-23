@@ -1,0 +1,17 @@
+http://localhost:8888/aliens
+
+new-->spring boot-->web
+
+issue facinngg:--->eclipse
+sometime eclipse not generating boot structure
+
+resolve:-by addding web
+
+server issue:-8080 is ruuniing is another port
+Resolv:-configure in application properties:-
+server.port:8888
+
+404 error found when controller in another folder
+resolve:-controller class in same bootg class folder
+@requjest mapping ("aliens") 
+http://localhost:8888/aliens
